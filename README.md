@@ -1,7 +1,7 @@
 # NeuralKuvshinov version 2
 
 
-Recently, after making the first [NeuralKuvshinov](https://github.com/dobrosketchkun/NeuralKuvshinov), I found a new way to preprocess the dataset of Kuvshinovs' artwork. I thought, "why not?" and use [styleGAN2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) and [stylegan2-ffhq-config-f.pkl](http://d36zk2xti64re0.cloudfront.net/stylegan2/networks/stylegan2-ffhq-config-f.pkl) to make a second version of NeuralKuvshnov.    
+Recently, after making the first [NeuralKuvshinov](https://github.com/dobrosketchkun/NeuralKuvshinov), I found a new way to preprocess the dataset of Kuvshinovs' artwork. I thought, "why not?" and use [styleGAN2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) and [stylegan2-ffhq-config-f.pkl](http://d36zk2xti64re0.cloudfront.net/stylegan2/networks/stylegan2-ffhq-config-f.pkl) to make a second version of NeuralKuvshinov.    
 Boy, it was a good idea. See yourself:
 
 ![Version 2 grid preview](https://raw.githubusercontent.com/dobrosketchkun/NeuralKuvshinov_v2/main/files/v2.jpg)
