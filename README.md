@@ -25,7 +25,7 @@ Boy, it was a good idea. See yourself:
 ### scribbles
 ![Scribbles](https://raw.githubusercontent.com/dobrosketchkun/NeuralKuvshinov_v2/main/files/scribbles.jpg)
 
-## I order to generate images by yourself, use this [colab](https://colab.research.google.com/drive/1WVYIH1Bw6MmIEd8tLtaC-dJyoxNKGHPA?usp=sharing).
+## In order to generate images by yourself, use this [colab](https://colab.research.google.com/drive/1WVYIH1Bw6MmIEd8tLtaC-dJyoxNKGHPA?usp=sharing).
 
 ### Table of checkpoints:
 
