@@ -33,6 +33,7 @@ Name | Link
 ------------ | -------------
 NeuralKuvshinov_v2.1 | [link](https://drive.google.com/file/d/12IR7E2rizKV_HEa8wISdPmif_MNN4WKy/view?usp=sharing)
 NeuralKuvshinov_v2.2 | [link](https://drive.google.com/file/d/11nJL2EGO39ocB3OfuDZyDBAj7TXPhHSn/view?usp=sharing)
+NeuralKuvshinov_v2.3 | [link](https://drive.google.com/file/d/120D96k23kApPuwbYlMi1D2PoKT4D_z2i/view?usp=sharing)
 NeuralKuvshinov_v1.27 | [link](https://drive.google.com/file/d/111eamxSK8cgNIVlBW-ky2cq047gj3-Eo/view?usp=sharing)
 
 
